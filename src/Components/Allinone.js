@@ -16,7 +16,7 @@ function Allinone() {
   };
   useEffect(() => {
     getData();
-  }, []);
+  });
 
   return (
     <div className="container product" style={{display: 'grid',gridTemplateColumns:"3fr 3fr 3fr",textAlign: 'center'}}>
