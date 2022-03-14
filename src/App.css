@@ -1,0 +1,18 @@
+/* All */
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Slide */
+.d-block{
+    height:350px;
+    width:100%;
+}
+/* Home */
+.home-image:hover{
+    box-shadow: 0 0 30px black;
+}
+/* Product */
+.product-image:hover{
+    box-shadow: 0px 0px 30px black;
+}
